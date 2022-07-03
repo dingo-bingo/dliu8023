@@ -1,4 +1,3 @@
-Hi, I’m @dliu8023
+Hi, I’m  ```user```
 
-Welcome to Github, focused on documenting my learning process in cybersecurity, linux, routing/switching, powershell. 
-
+Welcome to my Github, focused on documenting my learning in cybersecurity, linux, routing/switching, powershell. 
