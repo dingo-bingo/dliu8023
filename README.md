@@ -1,3 +1,4 @@
 Hi, I’m @dliu8023
 
-Github for personal projects on Linux, Routing/Switching, and troubleshooting 
+Welcome to Github, focused on documenting my learning process in cybersecurity, linux, routing/switching, powershell. 
+
